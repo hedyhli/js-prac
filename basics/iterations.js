@@ -12,7 +12,6 @@ for (key in obj) {
   console.log(key);
 }
 
-
 console.log("\n--For Each--");
 
 // iterating over an array

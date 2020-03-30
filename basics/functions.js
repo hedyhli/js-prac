@@ -1,5 +1,5 @@
 function myFunc() {
-  console.log("I'm in the fucntion!");
+  console.log("I'm in the function!");
 }
 
 myFunc();

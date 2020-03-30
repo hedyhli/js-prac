@@ -29,6 +29,7 @@
         "no-use-before-define": "warn",
         "prefer-const": "off",
         "no-new-object": "warn",
-        "space-before-blocks": "warn"
+        "space-before-blocks": "warn",
+        "spaced-comment": "warn"
     }
 }

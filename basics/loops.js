@@ -22,4 +22,4 @@ for (z = 0; z < 10; z++) {
 // Syntax for 'for' loop:
 // for(initialization; condition; increment) {
 //   put your code that will repeat - here.
-//}
+// }
