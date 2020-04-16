@@ -5,7 +5,7 @@
         "node": true
     },
     "extends": [
-        "standard"
+        "plugin:prettier/recommended"
     ],
     "globals": {
         "Atomics": "readonly",
@@ -15,21 +15,5 @@
         "ecmaVersion": 2018,
         "sourceType": "module"
     },
-    "rules": {
-        "semi": "off",
-        "eqeqeq": "warn",
-        "quotes":"off",
-        "no-unused-expressions":"warn",
-        "no-unused-vars": "warn",
-        "space-infix-ops":"warn",
-        "no-undef":"warn",
-        "indent": ["warn", 2],
-        "space-before-function-paren": "off",
-        "eol-last": "warn",
-        "no-use-before-define": "warn",
-        "prefer-const": "off",
-        "no-new-object": "warn",
-        "space-before-blocks": "warn",
-        "spaced-comment": "warn"
-    }
+    "rules": {}
 }
